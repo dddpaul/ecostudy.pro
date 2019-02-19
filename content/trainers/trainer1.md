@@ -1,7 +1,7 @@
 +++
 title = "Максим Гореликов"
 weight = 1
-img = "http://ecostudy.pro/img/gorelikov.jpg"
+img = "https://ecostudy.pro/img/gorelikov.jpg"
 +++
 
 #### Максим Гореликов

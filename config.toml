@@ -1,10 +1,10 @@
-baseURL = "http://ecostudy.pro/"
+baseURL = "https://ecostudy.pro/"
 languageCode = "ru-ru"
 title = "Private clouds, microservices, DevOps"
 theme = "hugo-apps-theme"
 
 [params]
-  avatar = "http://ecostudy.pro/img/cloud.jpg"
+  avatar = "https://ecostudy.pro/img/cloud.jpg"
   author = "Облачная инфраструктура"
   info = "для разработчиков и тестировщиков"
 

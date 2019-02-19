@@ -1,7 +1,7 @@
 +++
 title = "Кирилл Толкачев"
 weight = 2
-img = "http://ecostudy.pro/img/tolkv.jpg"
+img = "https://ecostudy.pro/img/tolkv.jpg"
 +++
 
 #### Кирилл Толкачев

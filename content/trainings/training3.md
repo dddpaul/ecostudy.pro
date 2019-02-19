@@ -1,7 +1,7 @@
 +++
 title = "Когда микросервисы ломаются" 
 weight = 3
-img = "http://ecostudy.pro/img/airplane.svg"
+img = "https://ecostudy.pro/img/airplane.svg"
 +++
 
 #### Как не “витать в облаках” когда ваши микросервисы ломаются
