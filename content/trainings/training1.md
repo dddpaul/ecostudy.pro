@@ -1,7 +1,7 @@
 +++
 title = "Облака без \"воды\""
 weight = 1
-img = "http://localhost:1313/img/sun.svg"
+img = "http://ecostudy.pro/img/sun.svg"
 +++
 
 #### Как сделать облака без "воды"

@@ -1,7 +1,7 @@
 +++
 title = "Про микро-сервисы"
 weight = 2
-img = "http://localhost:1313/img/microservices.svg"
+img = "http://ecostudy.pro/img/microservices.svg"
 +++
 
 #### Микросервисы - через тернии ~~в пропасть~~ к звездам

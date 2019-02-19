@@ -4,7 +4,7 @@ title = "Private clouds, microservices, DevOps"
 theme = "hugo-apps-theme"
 
 [params]
-  avatar = "http://localhost:1313/img/cloud.jpg"
+  avatar = "http://ecostudy.pro/img/cloud.jpg"
   author = "Облачная инфраструктура"
   info = "для разработчиков и тестировщиков"
 
