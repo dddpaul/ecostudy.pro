@@ -1,4 +1,4 @@
-baseURL = "https://www.ecostudy.pro/"
+baseURL = "http://ecostudy.pro/"
 languageCode = "ru-ru"
 title = "Private clouds, microservices, DevOps"
 theme = "hugo-apps-theme"
