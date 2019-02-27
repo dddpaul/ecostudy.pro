@@ -21,6 +21,6 @@ img = "https://ecostudy.pro/img/microservices.svg"
 
 Пойдем от основ и углубимся в инструменты. Постараемся попробовать все на практике и осознать вред и полезность разных подходов и технологий.
 
-Используемые технологии: голова, Spring Boot/Cloud/Data/Reactor/Test/etc, Gradle,Testcontainers, Netflix-стек и новые альтернативы ему.
+Используемые технологии: голова, Spring Boot/Cloud/Data/Reactor/Test/etc, Gradle, Testcontainers, Netflix-стек и новые альтернативы.
 
-Продолжительность: 2 дня
+Продолжительность: **2 дня**
